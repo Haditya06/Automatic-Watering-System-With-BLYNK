@@ -14,7 +14,6 @@ jadi ini adalah projet IOT yang namanya automatic watering system yang dimana ka
 7. kabel jumper
 8. port usb
 
-## wiringnya
 ## Wiring 
 | Komponen                 | Pin ESP32      | Keterangan                        |
 | ------------------------ | -------------- | --------------------------------- |
